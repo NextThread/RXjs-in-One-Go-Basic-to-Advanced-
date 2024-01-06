@@ -1,4 +1,4 @@
-# RXJS
+# RXJS(Reactive Extensions for JavaScript)
 
 # Introduction
 
@@ -1565,3 +1565,8 @@ source.pipe(
 In this example, the `pipe` function is used to chain the `map`, `filter`, and `take` operators together. The source observable `source` undergoes transformation, filtering, and is limited to two values before being subscribed to. The output is the result of the applied operations on the source observable.
 
 By using the `pipe` function, you can apply a series of operators to an observable in a concise and organized manner, facilitating the construction of complex data flows and enabling better code reuse.
+
+
+
+
+Follow @NextThread for more
